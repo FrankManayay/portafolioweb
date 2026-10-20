@@ -1,0 +1,6 @@
+{
+  "generator": "image_gen (herramienta integrada)",
+  "source": "Logo FW — Web Dominator proporcionado por el usuario",
+  "output": "assets/logo-web-dominator-red.png",
+  "prompt": "Use case: precise-object-edit. Edit target is Image 1, the supplied green 'FW / Web Dominator' logo. This is a strict clean logo recolor and background removal, NOT a redesign or a 3D rendering. Change all green parts to saturated crimson red #c21932 with a very gentle red tonal gradient, keeping the exact FW silhouette, negative spaces, angles, size ratio, the original bold italic lettering and exact words 'Web Dominator'. Make the black background and all black negative spaces fully transparent. The outer and inner boundaries must be perfectly clean, smooth, sharp vector-like contours. Absolutely NO glow, NO red haze, NO noise, NO particles, NO extra pixels around edges, NO bevel, NO extrusion, NO shadow, NO texture, NO silver, no new symbols. Front-facing original logo, full symbol and exact lettering fully visible. Center the logo lockup with a small clean transparent margin. Output transparent PNG with straight, professional clean edges. Flat graphic, faithful to the original."
+}
